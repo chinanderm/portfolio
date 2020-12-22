@@ -1,56 +1,70 @@
 # Portfolio - Matt Chinander
 
-An ever-changing list of public and private things I have worked on over my entire web development career.
+An ever-changing list of public and private projects I have worked on over my entire web development career.
 
-## Websites
-
-### Public
-
-#### West Branch Football
+## West Branch Football
 The official website for the West Branch High School football team in West Branch, Iowa.
 
 Visit: https://westbranch.football
 
-Frontend Technologies:
-* ReactJS v16.8 using functional components with hooks
-* `react-router` for routing
-* `axios` for async data fetching via custom REST API
-* Sass/Scss CSS
-* Bootstrap 4
+Project type: Full-stack
 
-Custom-built Admin Dashboard Technologies:
-* ReactJS v16.8 using functional components with hooks
-* Axios for async data fetching
-* Sass/Scss CSS
-* Bootstrap 4
+Includes a custom-built Admin Dashboard for site administration. Brief video overview: https://youtu.be/sQIqTHCXO1s
+
+Frontend Technologies (public site and admin dashboard):
+* ReactJS using functional components with hooks
+* Typescript
+* [react-router](https://reactrouter.com)
+* [react-query](https://react-query.tanstack.com)
+* [axios](https://github.com/axios/axios)
+* [Emotion](https://emotion.sh/docs/introduction)
+* [Polished](https://polished.js.org)
+* [react-bootstrap](https://react-bootstrap.github.io)
 * Okta authentication
 
 Backend Technologies:
-* PHP
-* Composer
+* NodeJS
+* Typescript
+* [Express](https://expressjs.com)
+* [TypeORM](https://typeorm.io/#/)
 * MySQL
-* AWS integration to upload files to S3 bucket
-* Twitter API integration to automate sending of Tweets when new blog posts go live
+* AWS SDK
+* Twitter SDK
+* [multer](https://github.com/expressjs/multer#readme)
 
-#### Fox Eye Clinic
-The main website for Fox Eye Clinic in Cedar Rapids, Iowa.
+## Handrail
+A web application for user researchers to plan, conduct, analyze, and report on their research.
 
-Visit: http://foxeye.com
+Visit: https://handrailux.com
 
-Technologies:
-* Wordpress
-* PHP
-* MySQL
-* Custom designed and developed template
-* HTML5
+Project type: Full-stack
+
+App Technologies:
+* ReactJS
+* AngularJS
+* Typescript
+* Emotion.js / Styled Components
+* Stylus
 * Sass/Scss
-* Javascript
+* Cypress.io
+* Selenium
+* Java
+* Kotlin
+* MySQL
+
+Marketing Website Technologies:
+* ReactJS
+* Typescript
+* [Gatsby](https://www.gatsbyjs.com)
+* Sass/Scss
 * Bootstrap 4
 
-#### Cedars Edge Golf Course
+## Cedars Edge Golf Course
 A website for Cedars Edge Golf Course in West Branch, Iowa.
 
 Visit: https://cedarsedgegolf.com
+
+Project type: Full-stack
 
 Technologies:
 * Wordpress
@@ -62,21 +76,29 @@ Technologies:
 * Javascript
 * Bootstrap 4
 
-#### Handrail, Inc Corporate Website
-A website for Handrail, Inc.
+## Fox Eye Clinic
+The main website for Fox Eye Clinic in Cedar Rapids, Iowa.
 
-Visit: https://handrailux.com
+Visit: http://foxeye.com
+
+Project type: Full-stack
 
 Technologies:
-* ReactJS
-* Gatsby
+* Wordpress
+* PHP
+* MySQL
+* Custom designed and developed template
+* HTML5
 * Sass/Scss
+* Javascript
 * Bootstrap 4
 
-#### Mount Vernon Football
+## Mount Vernon Football
 The official website for the Mount Vernon High School football team in Mount Vernon, Iowa.
 
 Visit: https://www.mountvernonfootball.com
+
+Project type: Full-stack
 
 Frontend Technologies:
 * HTML5
@@ -84,24 +106,19 @@ Frontend Technologies:
 * Javascript
 * Bootstrap 4
 
-Custom-built Admin Dashboard Technologies:
-* ReactJS v16.8 using functional components with hooks
-* Axios for async data fetching
-* Sass/Scss CSS
-* Bootstrap 4
-* Okta authentication
-
 Backend Technologies:
 * PHP
 * Composer
 * MySQL
-* AWS integration to upload files to S3 bucket
-* Twitter API integration to automate sending of Tweets when new blog posts go live
+* AWS SDK
+* Twitter SDK
 
-#### Green Day Authority
+## Green Day Authority
 A fan website for the band Green Day.
 
 Visit: https://greendayauthority.com
+
+Project type: Full-stack
 
 Technologies:
 * HTML5
