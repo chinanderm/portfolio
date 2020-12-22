@@ -20,8 +20,8 @@ Frontend Technologies:
 Backend Technologies:
 * NodeJS
 * Typescript
-* Express
-* TypeORM
+* [Express](https://expressjs.com)
+* [TypeORM](https://typeorm.io/#/)
 * MySQL
 * AWS SDK
 * Twitter SDK
@@ -65,7 +65,7 @@ Visit: https://handrailux.com
 Technologies:
 * ReactJS
 * Typescript
-* Gatsby
+* [Gatsby](https://www.gatsbyjs.com)
 * Sass/Scss
 * Bootstrap 4
 
