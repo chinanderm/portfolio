@@ -126,3 +126,6 @@ Technologies:
 * Javascript
 * PHP
 * MySQL
+
+## Sample Projects and Code Challenges
+* [Newsletter Signup](https://github.com/chinanderm/sample-newsletter-signup)
