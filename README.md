@@ -12,25 +12,22 @@ The official website for the West Branch High School football team in West Branc
 Visit: https://westbranch.football
 
 Frontend Technologies:
-* ReactJS v16.8 using functional components with hooks
-* `react-router` for routing
-* `axios` for async data fetching via custom REST API
-* Sass/Scss CSS
-* Bootstrap 4
-
-Custom-built Admin Dashboard Technologies:
-* ReactJS v16.8 using functional components with hooks
-* Axios for async data fetching
-* Sass/Scss CSS
-* Bootstrap 4
-* Okta authentication
+* ReactJS using functional components with hooks
+* Typescript
+* [react-router](https://reactrouter.com)
+* [axios](https://github.com/axios/axios)
+* [Emotion](https://emotion.sh/docs/introduction)
+* Bootstrap 4 for utility CSS classes
 
 Backend Technologies:
-* PHP
-* Composer
+* NodeJS
+* Typescript
+* Express
+* TypeORM
 * MySQL
-* AWS integration to upload files to S3 bucket
-* Twitter API integration to automate sending of Tweets when new blog posts go live
+* AWS SDK
+* Twitter SDK
+* [multer](https://github.com/expressjs/multer#readme)
 
 #### Fox Eye Clinic
 The main website for Fox Eye Clinic in Cedar Rapids, Iowa.
@@ -69,6 +66,7 @@ Visit: https://handrailux.com
 
 Technologies:
 * ReactJS
+* Typescript
 * Gatsby
 * Sass/Scss
 * Bootstrap 4
@@ -84,19 +82,12 @@ Frontend Technologies:
 * Javascript
 * Bootstrap 4
 
-Custom-built Admin Dashboard Technologies:
-* ReactJS v16.8 using functional components with hooks
-* Axios for async data fetching
-* Sass/Scss CSS
-* Bootstrap 4
-* Okta authentication
-
 Backend Technologies:
 * PHP
 * Composer
 * MySQL
-* AWS integration to upload files to S3 bucket
-* Twitter API integration to automate sending of Tweets when new blog posts go live
+* AWS SDK
+* Twitter SDK
 
 #### Green Day Authority
 A fan website for the band Green Day.
@@ -109,3 +100,34 @@ Technologies:
 * Javascript
 * PHP
 * MySQL
+
+### Private
+
+#### Handrail
+A web application for user researchers to plan, conduct, analyze, and report on their research.
+
+Technologies:
+* ReactJS
+* AngularJS
+* Typescript
+* Emotion.js / Styled Components
+* Stylus
+* Sass/Scss
+* Cypress.io
+* Selenium
+* Java
+* Kotlin
+* MySQL
+
+#### West Branch Football Admin Dashboard
+A custom-built admin dashboard for administration of the public West Branch Football website.
+
+Technologies:
+* ReactJS
+* Typescript
+* [react-router](https://reactrouter.com)
+* [axios](https://github.com/axios/axios)
+* [Emotion](https://emotion.sh/docs/introduction)
+* [Polished](https://polished.js.org)
+* [react-bootstrap](https://react-bootstrap.github.io)
+* Okta authentication
