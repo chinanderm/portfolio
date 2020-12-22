@@ -39,6 +39,8 @@ Visit: https://handrailux.com
 
 Project type: Full-stack
 
+Big feature I developed: [Analysis Board](https://www.youtube.com/watch?v=H6E5APDTiWw)
+
 App Technologies:
 * ReactJS
 * AngularJS
