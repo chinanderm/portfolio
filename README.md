@@ -2,11 +2,9 @@
 
 An ever-changing list of public and private things I have worked on over my entire web development career.
 
-## Websites
+## Public Websites and Projects
 
-### Public
-
-#### West Branch Football
+### West Branch Football
 The official website for the West Branch High School football team in West Branch, Iowa.
 
 Visit: https://westbranch.football
@@ -29,7 +27,7 @@ Backend Technologies:
 * Twitter SDK
 * [multer](https://github.com/expressjs/multer#readme)
 
-#### Fox Eye Clinic
+### Fox Eye Clinic
 The main website for Fox Eye Clinic in Cedar Rapids, Iowa.
 
 Visit: http://foxeye.com
@@ -44,7 +42,7 @@ Technologies:
 * Javascript
 * Bootstrap 4
 
-#### Cedars Edge Golf Course
+### Cedars Edge Golf Course
 A website for Cedars Edge Golf Course in West Branch, Iowa.
 
 Visit: https://cedarsedgegolf.com
@@ -59,7 +57,7 @@ Technologies:
 * Javascript
 * Bootstrap 4
 
-#### Handrail, Inc Corporate Website
+### Handrail, Inc Corporate Website
 A website for Handrail, Inc.
 
 Visit: https://handrailux.com
@@ -71,7 +69,7 @@ Technologies:
 * Sass/Scss
 * Bootstrap 4
 
-#### Mount Vernon Football
+### Mount Vernon Football
 The official website for the Mount Vernon High School football team in Mount Vernon, Iowa.
 
 Visit: https://www.mountvernonfootball.com
@@ -89,7 +87,7 @@ Backend Technologies:
 * AWS SDK
 * Twitter SDK
 
-#### Green Day Authority
+### Green Day Authority
 A fan website for the band Green Day.
 
 Visit: https://greendayauthority.com
@@ -101,9 +99,9 @@ Technologies:
 * PHP
 * MySQL
 
-### Private
+## Private Websites and Projects
 
-#### Handrail
+### Handrail
 A web application for user researchers to plan, conduct, analyze, and report on their research.
 
 Technologies:
@@ -119,7 +117,7 @@ Technologies:
 * Kotlin
 * MySQL
 
-#### West Branch Football Admin Dashboard
+### West Branch Football Admin Dashboard
 A custom-built admin dashboard for administration of the public West Branch Football website.
 
 Technologies:
