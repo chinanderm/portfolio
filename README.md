@@ -123,6 +123,7 @@ A custom-built admin dashboard for administration of the public West Branch Foot
 Technologies:
 * ReactJS
 * Typescript
+* [react-query](https://react-query.tanstack.com)
 * [react-router](https://reactrouter.com)
 * [axios](https://github.com/axios/axios)
 * [Emotion](https://emotion.sh/docs/introduction)
