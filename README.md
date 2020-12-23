@@ -61,6 +61,10 @@ Marketing Website Technologies:
 * Sass/Scss
 * Bootstrap 4
 
+## Sample Projects and Code Challenges
+* [Newsletter Signup](https://github.com/chinanderm/sample-newsletter-signup) - Frontend with React, Typescript, Gatsby, Emotion/Styled Components
+* [Node.js API](https://github.com/chinanderm/sample-nodejs-api) - Backend with Node.js, Typescript, Express, TypeORM, and MySQL
+
 ## Cedars Edge Golf Course
 A website for Cedars Edge Golf Course in West Branch, Iowa.
 
@@ -128,7 +132,3 @@ Technologies:
 * Javascript
 * PHP
 * MySQL
-
-## Sample Projects and Code Challenges
-* [Newsletter Signup](https://github.com/chinanderm/sample-newsletter-signup) - Frontend with React, Typescript, Gatsby, Emotion/Styled Components
-* [Node.js API](https://github.com/chinanderm/sample-nodejs-api) - Backend with Node.js, Typescript, Express, TypeORM, and MySQL
