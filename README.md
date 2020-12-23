@@ -3,7 +3,7 @@
 An ever-changing list of public and private projects I have worked on over my entire web development career.
 
 ## West Branch Football
-The official website for the West Branch High School football team in West Branch, Iowa.
+The official website for the West Branch High School football team in West Branch, Iowa. Everything across the project is designed and developed by myself.
 
 Visit: https://westbranch.football
 
@@ -33,7 +33,7 @@ Backend Technologies:
 * [multer](https://github.com/expressjs/multer#readme)
 
 ## Handrail
-A web application for user researchers to plan, conduct, analyze, and report on their research.
+A web application for user researchers to plan, conduct, analyze, and report on their research. I was the lead Frontend developer for the application.
 
 Visit: https://handrailux.com
 
@@ -66,7 +66,7 @@ Marketing Website Technologies:
 * [Node.js API](https://github.com/chinanderm/sample-nodejs-api) - Backend with Node.js, Typescript, Express, TypeORM, and MySQL
 
 ## Cedars Edge Golf Course
-A website for Cedars Edge Golf Course in West Branch, Iowa.
+A website for Cedars Edge Golf Course in West Branch, Iowa. The template was designed and developed by me.
 
 Visit: https://cedarsedgegolf.com
 
@@ -83,7 +83,7 @@ Technologies:
 * Bootstrap 4
 
 ## Fox Eye Clinic
-The main website for Fox Eye Clinic in Cedar Rapids, Iowa.
+The main website for Fox Eye Clinic in Cedar Rapids, Iowa. The template was designed and developed by me.
 
 Visit: http://foxeye.com
 
@@ -100,7 +100,7 @@ Technologies:
 * Bootstrap 4
 
 ## Mount Vernon Football
-The official website for the Mount Vernon High School football team in Mount Vernon, Iowa.
+The official website for the Mount Vernon High School football team in Mount Vernon, Iowa. Everything across the project is designed and developed by myself.
 
 Visit: https://www.mountvernonfootball.com
 
