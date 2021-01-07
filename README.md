@@ -1,8 +1,27 @@
 # Portfolio - Matt Chinander
 
-An ever-changing list of public and private projects I have worked on over my entire web development career.
+Hello! My name is Matt Chinander and I am a Frontend Engineer. My passion lies in creating beautiful, performant, and accessible user interfaces on the web using React, Typescript, and modern CSS technologies, such as CSS-in-JS libraries and Sass/Scss.
 
-## West Branch Football
+My favorite frontend technologies:
+* React (Typescript)
+* Emotion / Styled Components
+* Polished
+* React Router
+* React Query
+* Sass/Scss
+
+My favorite backend technologies:
+* NodeJS (Typescript)
+* Express
+* TypeORM
+* MySQL
+* PHP
+
+## My Work and Projects
+
+Below is an ever-changing list of public and private projects I have worked on over my entire web development career.
+
+### West Branch Football
 The official website for the West Branch High School football team in West Branch, Iowa. Everything across the project is designed and developed by myself.
 
 Visit: https://westbranch.football
@@ -32,14 +51,12 @@ Backend Technologies:
 * Twitter SDK
 * [multer](https://github.com/expressjs/multer#readme)
 
-## Handrail
-A web application for user researchers to plan, conduct, analyze, and report on their research. I was the lead Frontend developer for the application.
-
-Visit: https://handrailux.com
+### Handrail
+A web application for user researchers to plan, conduct, analyze, and report on their research. I was the lead Frontend developer for the application prior to its closing in 2020.
 
 Project type: Full-stack
 
-Big feature I developed: [Analysis Board](https://www.youtube.com/watch?v=H6E5APDTiWw)
+Big feature I developed: [Analysis Board](https://youtu.be/zvJzckToNQY)
 
 App Technologies:
 * ReactJS
@@ -61,11 +78,11 @@ Marketing Website Technologies:
 * Sass/Scss
 * Bootstrap 4
 
-## Sample Projects and Code Challenges
+### Sample Projects and Code Challenges
 * [Newsletter Signup](https://github.com/chinanderm/sample-newsletter-signup) - Frontend with React, Typescript, Gatsby, Emotion/Styled Components
 * [Node.js API](https://github.com/chinanderm/sample-nodejs-api) - Backend with Node.js, Typescript, Express, TypeORM, and MySQL
 
-## Cedars Edge Golf Course
+### Cedars Edge Golf Course
 A website for Cedars Edge Golf Course in West Branch, Iowa. The template was designed and developed by me.
 
 Visit: https://cedarsedgegolf.com
@@ -82,7 +99,7 @@ Technologies:
 * Javascript
 * Bootstrap 4
 
-## Fox Eye Clinic
+### Fox Eye Clinic
 The main website for Fox Eye Clinic in Cedar Rapids, Iowa. The template was designed and developed by me.
 
 Visit: http://foxeye.com
@@ -99,7 +116,7 @@ Technologies:
 * Javascript
 * Bootstrap 4
 
-## Mount Vernon Football
+### Mount Vernon Football
 The official website for the Mount Vernon High School football team in Mount Vernon, Iowa. Everything across the project is designed and developed by myself.
 
 Visit: https://www.mountvernonfootball.com
@@ -119,7 +136,7 @@ Backend Technologies:
 * AWS SDK
 * Twitter SDK
 
-## Green Day Authority
+### Green Day Authority
 A fan website for the band Green Day.
 
 Visit: https://greendayauthority.com
