@@ -3,17 +3,17 @@
 Hello! My name is Matt Chinander and I am a Frontend Engineer. My passion lies in creating beautiful, performant, and accessible user interfaces on the web using React, Typescript, and modern CSS technologies, such as CSS-in-JS libraries and Sass/Scss.
 
 My favorite frontend technologies:
-* React (Typescript)
-* Emotion / Styled Components
-* Polished
-* React Router
-* React Query
-* Sass/Scss
+* [React](https://reactjs.org) (Typescript)
+* [Emotion](https://emotion.sh/docs/introduction) / Styled Components
+* [Polished](https://polished.js.org)
+* [React Router](https://reactrouter.com)
+* [React Query](https://react-query.tanstack.com)
+* [Sass](https://sass-lang.com) / Scss
 
 My favorite backend technologies:
 * NodeJS (Typescript)
-* Express
-* TypeORM
+* [Express](https://expressjs.com)
+* [TypeORM](https://typeorm.io/#/)
 * MySQL
 * PHP
 
@@ -33,19 +33,19 @@ Includes a custom-built Admin Dashboard for site administration. Brief video ove
 Frontend Technologies (public site and admin dashboard):
 * ReactJS using functional components with hooks
 * Typescript
-* [react-router](https://reactrouter.com)
-* [react-query](https://react-query.tanstack.com)
+* React Router
+* React Query
 * [axios](https://github.com/axios/axios)
-* [Emotion](https://emotion.sh/docs/introduction)
-* [Polished](https://polished.js.org)
+* Emotion
+* Polished
 * [react-bootstrap](https://react-bootstrap.github.io)
 * Okta authentication
 
 Backend Technologies:
 * NodeJS
 * Typescript
-* [Express](https://expressjs.com)
-* [TypeORM](https://typeorm.io/#/)
+* Express
+* TypeORM
 * MySQL
 * AWS SDK
 * Twitter SDK
