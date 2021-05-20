@@ -9,11 +9,13 @@ My favorite frontend technologies:
 * [React Router](https://reactrouter.com)
 * [React Query](https://react-query.tanstack.com)
 * [Sass](https://sass-lang.com) / Scss
+* [NextJS](https://nextjs.org)
 
 My favorite backend technologies:
 * NodeJS (Typescript)
 * [Express](https://expressjs.com)
-* [TypeORM](https://typeorm.io/#/)
+* [Prisma](https://www.prisma.io)
+* GraphQL
 * MySQL
 * PHP
 
@@ -33,8 +35,10 @@ Includes a custom-built Admin Dashboard for site administration. Brief video ove
 Frontend Technologies (public site and admin dashboard):
 * ReactJS using functional components with hooks
 * Typescript
+* NextJS (public site)
 * React Router
 * React Query
+* [graphql-request](https://github.com/prisma-labs/graphql-request)
 * [axios](https://github.com/axios/axios)
 * Emotion
 * Polished
@@ -45,7 +49,9 @@ Backend Technologies:
 * NodeJS
 * Typescript
 * Express
-* TypeORM
+* Prisma
+* GraphQL
+* [type-graphql](https://typegraphql.com)
 * MySQL
 * AWS SDK
 * Twitter SDK
