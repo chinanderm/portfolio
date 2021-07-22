@@ -1,6 +1,6 @@
 # Portfolio - Matt Chinander
 
-Hello! My name is Matt Chinander and I am a Frontend Engineer. My passion lies in creating beautiful, performant, and accessible user interfaces on the web using React, Typescript, and modern CSS technologies, such as CSS-in-JS libraries and Sass/Scss.
+Hello! My name is Matt Chinander and I am a "Full Stack" Engineer. My passion lies in creating beautiful, performant, and accessible user interfaces on the web using React, Typescript, and modern CSS technologies, such as CSS-in-JS libraries and Sass/Scss. I also enjoy writing backend microservices with NodeJS nad Golang.
 
 My favorite frontend technologies:
 * [React](https://reactjs.org) (Typescript)
@@ -10,6 +10,8 @@ My favorite frontend technologies:
 * [React Query](https://react-query.tanstack.com)
 * [Sass](https://sass-lang.com) / Scss
 * [NextJS](https://nextjs.org)
+* [Tailwind CSS](https://tailwindcss.com)
+* [Chakra UI](https://chakra-ui.com/)
 
 My favorite backend technologies:
 * NodeJS (Typescript)
@@ -17,6 +19,7 @@ My favorite backend technologies:
 * [Prisma](https://www.prisma.io)
 * GraphQL
 * MySQL
+* Golang
 * PHP
 
 ## My Work and Projects
@@ -33,7 +36,7 @@ Project type: Full-stack
 Includes a custom-built Admin Dashboard for site administration. Brief video overview: https://youtu.be/sQIqTHCXO1s
 
 Frontend Technologies (public site and admin dashboard):
-* ReactJS using functional components with hooks
+* ReactJS using function components with hooks
 * Typescript
 * NextJS (public site)
 * React Router
@@ -43,7 +46,8 @@ Frontend Technologies (public site and admin dashboard):
 * Emotion
 * Polished
 * [react-bootstrap](https://react-bootstrap.github.io)
-* Okta authentication
+* Tailwind CSS
+* Okta (authentication)
 
 Backend Technologies:
 * NodeJS
@@ -57,19 +61,20 @@ Backend Technologies:
 * Twitter SDK
 * [multer](https://github.com/expressjs/multer#readme)
 
+Using the same technology stack with a multi-tenant infastructure, I also have developed [Mount Vernon Football](https://www.mountvernonfootball.com).
+
 ### Handrail
 A web application for user researchers to plan, conduct, analyze, and report on their research. I was the lead Frontend developer for the application prior to its closing in 2020.
 
 Project type: Full-stack
 
-Big feature I developed: [Analysis Board](https://youtu.be/zvJzckToNQY)
+Favorite feature I developed: [Analysis Board](https://youtu.be/zvJzckToNQY)
 
 App Technologies:
 * ReactJS
 * AngularJS
 * Typescript
 * Emotion.js / Styled Components
-* Stylus
 * Sass/Scss
 * Cypress.io
 * Selenium
@@ -121,26 +126,6 @@ Technologies:
 * Sass/Scss
 * Javascript
 * Bootstrap 4
-
-### Mount Vernon Football
-The official website for the Mount Vernon High School football team in Mount Vernon, Iowa. Everything across the project is designed and developed by myself.
-
-Visit: https://www.mountvernonfootball.com
-
-Project type: Full-stack
-
-Frontend Technologies:
-* HTML5
-* Sass/Scss CSS
-* Javascript
-* Bootstrap 4
-
-Backend Technologies:
-* PHP
-* Composer
-* MySQL
-* AWS SDK
-* Twitter SDK
 
 ### Green Day Authority
 A fan website for the band Green Day.
