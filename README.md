@@ -1,6 +1,6 @@
 # Portfolio - Matt Chinander
 
-Hello! My name is Matt Chinander and I am a "Full Stack" Engineer. My passion lies in creating beautiful, performant, and accessible user interfaces on the web using React, Typescript, and modern CSS technologies, such as CSS-in-JS libraries and Sass/Scss. I also enjoy writing backend microservices with NodeJS nad Golang.
+Hello! My name is Matt Chinander and I am a "Full Stack" Engineer. My passion lies in creating beautiful, performant, and accessible user interfaces on the web using React, Typescript, and modern CSS technologies, such as CSS-in-JS libraries and Sass/Scss. I also enjoy writing backend microservices with NodeJS and Golang.
 
 My favorite frontend technologies:
 * [React](https://reactjs.org) (Typescript)
